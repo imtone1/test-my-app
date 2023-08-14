@@ -22,7 +22,8 @@
           // },
           {
             name: 'GitHub',
-            href: '#',
+            href: "https://github.com/imtone1/test-my-app",
+    target: "_blank",
             icon: (props) => (
               <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
                 <path
